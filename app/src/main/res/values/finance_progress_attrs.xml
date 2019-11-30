@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FinanceProgressView">
+        <attr name="progress" format="integer" />
+        <attr name="fill_color" format="color" />
+        <attr name="mLow_speed_color" format="color" />
+        <attr name="mAverage_speed_color" format="color" />
+        <attr name="mHigh_speed_color" format="color" />
+
+    </declare-styleable>
+</resources>
